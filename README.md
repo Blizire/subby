@@ -1,4 +1,4 @@
-# subby
+# subby - sleepy hubby v0.1.0
 webapp  for my wife to put my computer to sleep when I fall asleep watching movies on my windows PC
 # installation
 not going to put too much info here.. but its a flask webapp forked from my repo simple_serve.
